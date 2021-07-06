@@ -1,0 +1,30 @@
+body{
+    background-color:darkcyan;
+    padding-top: 7em;
+}
+.center{
+       width: 400px;
+       margin: auto;
+       border: black;
+       border-left-width: 5px;
+       border-right-width: 5px;
+       border-style:double;
+}
+
+input{
+    font-size: 2em;
+}
+
+button{
+     font-size: 1.3em;
+     background-color: cadetblue;
+}
+h2{
+font-size: 3em;
+
+}
+
+h1{
+    font:normal;
+    font-size: x-large;
+}
